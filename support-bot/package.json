@@ -1,0 +1,17 @@
+{
+  "name": "bds-support",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Peurbleue_",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "discord": "^0.8.2",
+    "discord-api-types": "^0.22.0",
+    "discord.js": "^13.3.1"
+  }
+}
