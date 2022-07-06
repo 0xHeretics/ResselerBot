@@ -1,14 +1,14 @@
 {
-    "token": "OTIyNTEyNTUyMjU5MzY2OTYy.YcCiww.8VajGcuA79mjcsny6geMr8lo0As",
-    "application_id": "922512552259366962",
-    "guilds_id": ["886713636440133684"],
+    "token": "Bot Token",
+    "application_id": "Application ID",
+    "guilds_id": ["Server ID"],
 
-    "tickets_parent_category_id": "922513400276332545",
+    "tickets_parent_category_id": "Ticket Category ID",
     "tickets_create_message": "Hello {user}, This is your own channel to send me your orders.",
     "user_permissions": [ "SEND_MESSAGES", "VIEW_CHANNEL", "EMBED_LINKS", "ATTACH_FILES", "ADD_REACTIONS" ],
 
     "say": {
         "default_color": "#ff0000",
-        "default_title": "Announcement"
+        "default_title": "Title"
     }
 }
